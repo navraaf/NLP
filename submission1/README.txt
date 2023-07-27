@@ -3,7 +3,7 @@ https://www.overleaf.com/project/6495c6cbf5cf02b65cafd98e
 
 
 Link to unlisted YouTube video:
-https://www.youtube.com/channel/UCJmJvUP3lYp5S3VgrG7Prjw 
+https://youtu.be/bFNS3CsfA70
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1bur7WgYSbMIVqMhqgv2pD1qEN5rRkegTNotsJ3006Rw/edit?usp=sharing
