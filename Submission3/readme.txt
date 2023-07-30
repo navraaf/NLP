@@ -3,7 +3,7 @@ https://youtu.be/2z0MZmcqY4g
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-Submission3/Concept Map.drawio.pdf
+https://github.com/navraaf/NLP/blob/main/Submission3/Concept%20Map.drawio.pdf
 Native/original format: 
 https://app.diagrams.net/#G1HzAU6xaHpCJUmBxrbTHK0GjNWGLqg0UO
 
